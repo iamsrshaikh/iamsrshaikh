@@ -1,6 +1,6 @@
 - 👋 Hi, I'm Sarfaraj Shaikh
 - 💻 A Proficient Frontend Developer with over 3 years of experience, skilled in ReactJS, JavaScript, Redux, and React Native
-- 🏢 Currently working at BharatPe as a Frontend Developer; previously contributed at Paytm and Paytm Money
+- 🏢 Currently working at Cfarer as a Frontend Developer; previously contributed at Paytm , Paytm Money and BharatPe
 - 💡 I have a strong understanding of fintech and capital markets
 - 🚀 Passionate about technology and a fast learner who loves solving real-world problems
 - 📩 Feel free to reach out to me at sarfarajshaikh8874@gmail.com
